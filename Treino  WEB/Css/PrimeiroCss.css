@@ -1,0 +1,54 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    background-image: url("https://i.pinimg.com/originals/40/ab/84/40ab8469396d0e76483b56812aad6c84.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    color: #D62983;
+    font-size: 190%;
+    font-style: oblique;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
+.text-gradient {
+    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 600%;
+    text-align: center;
+    color: aquamarine;
+}
+
+h2 {
+    font-size: 250%;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: overline;
+    color: #E0E722;
+}
+
+
+.urlcolor {
+    text-align: center;
+    font-style: oblique;
+    margin: 10px;
+    padding: 5px 10px 5px;
+}
+
+main {
+    background-color: #3c376b85;
+    background-position: center;
+    padding: 10px ;
+    width: 400px;
+    background-position-x: center;
+}
